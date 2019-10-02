@@ -1,7 +1,5 @@
 Report on Gun Murders
 ================
-Rafael Irizarry
-2019-06-10
 
 ## Introduction
 
